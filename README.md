@@ -23,4 +23,8 @@ public class Tarea1 : MonoBehaviour
 ```
 
 Resultado:
+
 ![Debug](./Images/debug.png)
+
+Video añadido con Git LFS:
+![LFS](./Images/lfs.png.png)
