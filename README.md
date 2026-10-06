@@ -27,4 +27,4 @@ Resultado:
 ![Debug](./Images/debug.png)
 
 Video añadido con Git LFS:
-![LFS](./Images/lfs.png.png)
+![LFS](./Images/lfs.png)
